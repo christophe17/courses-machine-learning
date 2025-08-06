@@ -1,0 +1,20 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Statistical modeling
+statsmodels
+
+# Advanced machine learning algorithms
+xgboost
+catboost
+
+# Scientific computing (dependency for other packages)
+scipy
